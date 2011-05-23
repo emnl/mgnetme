@@ -1,4 +1,4 @@
-The Magnet.me Ruby Gem
+The Mgnet.me Ruby Gem
 ====================
 A simple wrapper for the Mgnet.me magnet link shortening API
 
